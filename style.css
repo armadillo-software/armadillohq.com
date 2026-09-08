@@ -59,13 +59,14 @@ h1 {
     }
 
     .logo {
-        height: 44px;
+        height: 48px;
+        margin-top: 6rem;
         margin-bottom: 1.5rem;
     }
 
     h1 {
         font-size: 2rem;
-        margin-top: 2rem;
+        margin-top: 3rem;
     }
 
     .subtitle {
